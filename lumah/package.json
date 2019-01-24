@@ -1,0 +1,32 @@
+{
+  "name": "lumah",
+  "version": "0.0.2",
+  "description": "🔩 A simple and lightweight testing framework for Node.js",
+  "author": "Wessel \"wesselgame\" T <discord@go2it.eu>",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "LICENSE"
+  ],
+  "bugs": {
+    "url": "https://www.github.com/PassTheWessel/lumah/issues"
+  },
+  "homepage": "https://www.github.com/PassTheWessel/lumah#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/PassTheWessel/lumah"
+  },
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "keywords": [
+    "test",
+    "console",
+    "lumah",
+    "testing",
+    "framework",
+    "async",
+    "lightweight"
+  ]
+}

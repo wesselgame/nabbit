@@ -1,0 +1,26 @@
+{
+  "name": "nabbit",
+  "version": "0.0.1",
+  "description": "🥁 A collection of utility functions for Node.js",
+  "main": "lib/nabbit.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./test.js",
+    "lint": "node_modules\\.bin\\eslint lib\\ --quiet"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.1"
+  },
+  "author": {
+    "url": "https://wessel.meek.moe",
+    "name": "Wessel \"Wesselgame\" T",
+    "email": "discord@go2it.eu"
+  },
+  "bugs": {
+    "email": "discord@go2it.eu",
+    "url": "https://github.com/PassTheWessel/nabbit/issues"
+  },
+  "files": [ "lib", "LICENSE" ],
+  "repository": { "type": "git", "url": "https://github.com/PassTheWessel/nabbit" },
+  "homepage": "https://github.com/PassTheWessel/nabbit#readme"
+}
