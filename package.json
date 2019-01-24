@@ -1,6 +1,6 @@
 {
   "name": "nabbit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "🥁 A collection of utility functions for Node.js",
   "main": "lib/nabbit.js",
   "license": "MIT",
@@ -20,7 +20,9 @@
     "email": "discord@go2it.eu",
     "url": "https://github.com/PassTheWessel/nabbit/issues"
   },
-  "files": [ "lib", "LICENSE" ],
+  "files": [ "lib", "LICENSE", "nabbit.d.ts" ],
+  "typings": "index.d.ts",
   "repository": { "type": "git", "url": "https://github.com/PassTheWessel/nabbit" },
-  "homepage": "https://github.com/PassTheWessel/nabbit#readme"
+  "homepage": "https://github.com/PassTheWessel/nabbit#readme",
+  "keywords": [ "utility", "lightweight", "nabbit" ]
 }
